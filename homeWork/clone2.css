@@ -1,0 +1,195 @@
+#nav{
+
+    height: 80px;
+    
+  }
+
+  #nav a{
+float: left;
+padding-left: 40px;
+text-decoration: none;
+  }
+
+
+#midLogo{
+
+    text-align: center;
+    padding-top: 100px;
+}
+
+.para{
+
+    color: black;
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+
+#set1,
+#set2,
+#set3{
+
+    margin: 20px;
+}
+
+#set1{
+
+width: 300px;
+height: 300px;
+background: #a3a375;
+border-radius: 20px;
+
+
+}
+#set2{
+
+    width: 300px;
+    height: 300px;
+    background: #d6d6c2;
+    border-radius: 20px;
+    
+    }
+
+    #set3{
+
+        width: 300px;
+        height: 300px;
+        background: #a3a375;
+        border-radius: 20px;
+        
+        }
+#bottom{
+
+    height: 600px;
+    background:#d6d6c2 ;
+}
+
+.paraBottom{font-family: 'Nunito Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Satisfy', cursive;
+font-size: xx-large;
+padding-top: 30px;
+
+}
+
+#bottomLeft{
+
+    margin-left: 40px;
+}
+
+#lastPara{
+
+    text-align: center;
+    margin-top: 200px;
+   
+}
+
+button{
+
+    
+    margin-top: 170px;
+    background-color: rgb(70, 163, 224);
+    border-radius: 20px;
+    border: 0;
+}
+button:hover{
+
+    background-color: rgb(37, 141, 148);
+}
+
+.warsawpara{
+
+    display: inline;
+    margin-right: 50px;
+}
+
+.warsawimg{
+    margin-bottom: 10px;
+}
+#aligndiv{
+display: flex;
+align-content: center;
+}
+
+#last{
+
+    text-align: center;
+    margin-top: 70px ;
+}
+
+#last a{
+
+    padding: 20px;
+    text-decoration: none;
+}
+
+#grouplogo{
+
+    margin-left: 80px;
+}
+
+#rowset1{
+
+    margin-bottom: 50px;
+}
+
+#global{
+
+    margin-bottom: 50px;
+}
+
+.parajoin{
+
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Satisfy', cursive;
+
+    font-size: 30px;
+
+
+}
+
+.midcol1{
+
+    width: 200px;
+    height: 200px;
+    background: white;
+}
+
+#logo4{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#paraBottom2{
+
+   margin-bottom:230px; 
+}
+
+
+#parafont{
+
+    color:gray;
+}
+
+#paramiddle{
+
+    max-width: 250px;
+    margin: 80px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Satisfy', cursive;
+    font-size: 2rem;
+    color: gray;
+
+}
